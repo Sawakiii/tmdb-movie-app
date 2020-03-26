@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http;//sawakiii.github.io/tmdb-movie-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/http;//sawakiii.github.io/tmdb-movie-app/static/js/main.ea5f57e8.chunk.js",
+    "main.js.map": "/http;//sawakiii.github.io/tmdb-movie-app/static/js/main.ea5f57e8.chunk.js.map",
+    "runtime-main.js": "/http;//sawakiii.github.io/tmdb-movie-app/static/js/runtime-main.e0f2b04c.js",
+    "runtime-main.js.map": "/http;//sawakiii.github.io/tmdb-movie-app/static/js/runtime-main.e0f2b04c.js.map",
+    "static/js/2.48a937f2.chunk.js": "/http;//sawakiii.github.io/tmdb-movie-app/static/js/2.48a937f2.chunk.js",
+    "static/js/2.48a937f2.chunk.js.map": "/http;//sawakiii.github.io/tmdb-movie-app/static/js/2.48a937f2.chunk.js.map",
+    "index.html": "/http;//sawakiii.github.io/tmdb-movie-app/index.html",
+    "precache-manifest.14629dba36fdf026f25cca804b3e6735.js": "/http;//sawakiii.github.io/tmdb-movie-app/precache-manifest.14629dba36fdf026f25cca804b3e6735.js",
+    "service-worker.js": "/http;//sawakiii.github.io/tmdb-movie-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/http;//sawakiii.github.io/tmdb-movie-app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.48a937f2.chunk.js.LICENSE.txt": "/http;//sawakiii.github.io/tmdb-movie-app/static/js/2.48a937f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0f2b04c.js",
+    "static/js/2.48a937f2.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ea5f57e8.chunk.js"
+  ]
+}
