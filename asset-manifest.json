@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/tmdb-movie-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/tmdb-movie-app/static/js/main.0ed10f04.chunk.js",
-    "main.js.map": "/tmdb-movie-app/static/js/main.0ed10f04.chunk.js.map",
+    "main.js": "/tmdb-movie-app/static/js/main.7aed86e0.chunk.js",
+    "main.js.map": "/tmdb-movie-app/static/js/main.7aed86e0.chunk.js.map",
     "runtime-main.js": "/tmdb-movie-app/static/js/runtime-main.f9cb05fa.js",
     "runtime-main.js.map": "/tmdb-movie-app/static/js/runtime-main.f9cb05fa.js.map",
-    "static/js/2.48a937f2.chunk.js": "/tmdb-movie-app/static/js/2.48a937f2.chunk.js",
-    "static/js/2.48a937f2.chunk.js.map": "/tmdb-movie-app/static/js/2.48a937f2.chunk.js.map",
+    "static/js/2.37371f1c.chunk.js": "/tmdb-movie-app/static/js/2.37371f1c.chunk.js",
+    "static/js/2.37371f1c.chunk.js.map": "/tmdb-movie-app/static/js/2.37371f1c.chunk.js.map",
     "index.html": "/tmdb-movie-app/index.html",
-    "precache-manifest.265b060ad821e961e90745a1c43ae65c.js": "/tmdb-movie-app/precache-manifest.265b060ad821e961e90745a1c43ae65c.js",
+    "precache-manifest.395983028ef798a3360fbaefa4d2f0a1.js": "/tmdb-movie-app/precache-manifest.395983028ef798a3360fbaefa4d2f0a1.js",
     "service-worker.js": "/tmdb-movie-app/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/tmdb-movie-app/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.48a937f2.chunk.js.LICENSE.txt": "/tmdb-movie-app/static/js/2.48a937f2.chunk.js.LICENSE.txt"
+    "static/js/2.37371f1c.chunk.js.LICENSE.txt": "/tmdb-movie-app/static/js/2.37371f1c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f9cb05fa.js",
-    "static/js/2.48a937f2.chunk.js",
+    "static/js/2.37371f1c.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.0ed10f04.chunk.js"
+    "static/js/main.7aed86e0.chunk.js"
   ]
 }
